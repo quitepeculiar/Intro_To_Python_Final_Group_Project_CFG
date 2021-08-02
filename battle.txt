@@ -1,0 +1,4 @@
+A wild Pokemon has appeared! 
+You chose to fight with Nidoking! You fought against Altaria! You won! 
+You chose to fight with Kingler! You fought against Tyrantrum! You lost! 
+You chose to fight with Linoone! You fought against Ariados! You won! 
